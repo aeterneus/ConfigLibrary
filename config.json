@@ -1,0 +1,8 @@
+{
+  "classParameter": {
+    "mSomeString": "Class some string",
+    "mSomeInteger": 1945
+  },
+  "someParameter": "Some string data",
+  "xParameter": 123
+}
