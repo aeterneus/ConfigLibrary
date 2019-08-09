@@ -24,7 +24,7 @@ public class ConfigFileTest {
     }
 
     @Test
-    public void loadConfigFile() throws FileNotFoundException {
+    public void loadConfigFile() throws IOException {
         Parameter someParameter = new Parameter("someParameter");
         Parameter numberParameter = new Parameter("xParameter");
         Parameter classParameter = new Parameter("classParameter");
